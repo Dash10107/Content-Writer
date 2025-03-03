@@ -3,3 +3,4 @@ crewai-tools
 python-dotenv
 streamlit
 sentence-transformers
+pysqlite3-binary
